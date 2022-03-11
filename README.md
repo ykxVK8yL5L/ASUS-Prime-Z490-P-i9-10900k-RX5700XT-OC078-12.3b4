@@ -1,2 +1,3 @@
 # ASUS-Prime-Z490-P-i9-10900k-RX5700XT-OC078-12.3b4
-华硕Prime-Z490-P+i9-10900k+RX5700XT+OC078+12.3b4 Hackintosh
+华硕Prime-Z490-P+i9-10900k+RX5700XT+OC078+12.3b4 Hackintosh  
+显卡需要使用DP接口
